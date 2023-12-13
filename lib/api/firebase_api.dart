@@ -5,6 +5,6 @@ class FirebaseApi {
 
 
   Future<void> initNotification()async{
-    await
+   
   }
 }
